@@ -1,9 +1,4 @@
-# Diabetic_Retinopathy_Detection_Using_Enhanced_Deep_Residual_Network
-This project leverages deep learning techniques to classify diabetic retinopathy grades from retina images. It employs ResNet architectures for classification and evaluates performance through confusion matrices and accuracy visualizations.
-
-Based on the uploaded files and information provided, here's a **README.md** template for your Diabetic Retinopathy Detection project:
-
-# Diabetic Retinopathy Detection
+# Diabetic Retinopathy Detection Using Enhanced Deep Residual Network
 
 This project leverages deep learning techniques to classify diabetic retinopathy grades from retina images. It employs ResNet architectures for classification and evaluates performance through confusion matrices and accuracy visualizations.
 
