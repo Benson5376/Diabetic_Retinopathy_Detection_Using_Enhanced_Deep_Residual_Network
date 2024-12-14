@@ -10,7 +10,6 @@ This project leverages deep learning techniques to classify diabetic retinopathy
 - [Usage](#usage)
 - [Model Architectures](#model-architectures)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Results](#results)
 - [Examples](#examples)
 - [License](#license)
 
@@ -98,10 +97,6 @@ The models are defined in `Train.py` and are trained for:
 1. **Accuracy**: Compare the accuracy for pretrained vs. non-pretrained models across training and testing phases.
 2. **Confusion Matrix**: Visualize misclassifications for detailed insights.
 
-## Results
-### Training and Testing Accuracy Trends
-Results are saved and visualized for each epoch. Example:
-- ResNet18 (Pretrained): Achieved **82% accuracy** after 10 epochs.
 
 ### Confusion Matrix
 Generated using the `scikit-learn` library to summarize classification performance.
@@ -117,6 +112,5 @@ Generated using the `scikit-learn` library to summarize classification performan
 
 ## License
 This project is licensed under the MIT License.
-```
 
 
