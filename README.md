@@ -78,6 +78,7 @@ The `dataloader.py` script preprocesses images using:
 - Resizing (512x512)
 - Color jitter
 - Random horizontal/vertical flips
+![data_processing](https://github.com/Benson5376/Diabetic_Retinopathy_Detection_Using_Enhanced_Deep_Residual_Network/blob/main/resources/data_processing.PNG)
 
 ## Model Architectures
 This project implements:
