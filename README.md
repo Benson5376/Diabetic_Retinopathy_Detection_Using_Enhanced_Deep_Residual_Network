@@ -2,6 +2,8 @@
 
 This project leverages deep learning techniques to classify diabetic retinopathy grades from retina images. It employs ResNet architectures for classification and evaluates performance through confusion matrices and accuracy visualizations.
 
+![ResNet Architecture](https://github.com/Benson5376/Diabetic_Retinopathy_Detection_Using_Enhanced_Deep_Residual_Network/blob/main/resources/resnet.PNG)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
